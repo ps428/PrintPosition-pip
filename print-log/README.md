@@ -1,5 +1,4 @@
 # Print Position
-
 A cool python package to add the file name and line number in the print statements. This small tool can be very helpful in debugging big Python projects.
 
 ## Motivation
@@ -34,9 +33,7 @@ The output is shown as:
 print_data
 ```
 
-The output of the above code would be:
-
-I believe this would be very helpful in tracking down errors during debugging.
+I believe this would be very helpful in tracking down errors during debugging, **especially when you are working with someone else's code**.
 
 # Contact me
 To raise any **issues/requests** you may refer the issue page [here](https://github.com/ps428/PrintPosition-pip/issues).
