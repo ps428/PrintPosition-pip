@@ -1,8 +1,12 @@
 # Print Position
 A cool python package to add the file name and line number in the print statements. This small tool can be very helpful in debugging big Python projects.
+\
+\
+[Here](https://pypi.org/project/print-position/) is the project on pypi.
+
 
 ## Motivation
-To debug the Python code present in multiple files, it becomes difficult to track down the print statement calls in the different files. This small pip package can be highly useful in such cases, one can simply use the custom print statement defined in this package and see the filename and line number of the print call.
+To debug the Python code present in multiple files, it becomes difficult to track down the print statement calls from the different files. This small pip package can be highly useful in such cases, one can simply use the custom print statement defined in this package and see the filename and line number of the print calls.
 
 ## How to install?
 Just install the package using the command:
