@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: print-position
+Version: 1.0.3
+Summary: A cool python package to add the line number and file name in the print statements.
+Home-page: https://github.com/ps428/PrintPosition-pip
+Author: Pranav Soni
+Author-email: pranav.bhawan@gmail.com
+Project-URL: Bug Tracker, https://github.com/ps428/PrintPosition-pip/issues
+Project-URL: repository, https://github.com/ps428/PrintPosition-pip
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Print Position
+
+A cool python package to add the line number and file name in the print statements. This small tool can be very helpful in debugging modularized Python projects.
+
+## How to use?
+Just install the package.

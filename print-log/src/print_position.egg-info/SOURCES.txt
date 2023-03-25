@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+src/printPosition/__init__.py
+src/printPosition/printPosition.py
+src/print_position.egg-info/PKG-INFO
+src/print_position.egg-info/SOURCES.txt
+src/print_position.egg-info/dependency_links.txt
+src/print_position.egg-info/top_level.txt
