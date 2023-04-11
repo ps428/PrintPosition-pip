@@ -3,6 +3,7 @@ A cool python package to add the file name and line number in the print statemen
 \
 \
 [Here](https://pypi.org/project/print-position/) is the project on pypi.
+The current download stas are: [![Downloads](https://static.pepy.tech/badge/print-position)](https://pepy.tech/project/print-position) [![Downloads](https://static.pepy.tech/badge/print-position/month)](https://pepy.tech/project/print-position)
 
 
 ## Motivation
