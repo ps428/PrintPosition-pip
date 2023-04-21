@@ -2,6 +2,8 @@
 
 A cool python package to add the file name and line number in the print statements. This small tool can be very helpful in debugging big Python projects.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fps428%2FPrintPosition-pip&count_bg=%2317DAED&title_bg=%23555555&icon=probot.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [Here](https://pypi.org/project/print-position/) is the project on pypi.
 
 The current download stas are:
